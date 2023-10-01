@@ -1,4 +1,3 @@
-java
 package practice.oop;
 
 import java.util.Scanner;
